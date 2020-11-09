@@ -1,0 +1,10 @@
+{
+  "name": "FuzzyAdvanced",
+  "label": "FuzzyAdvanced",
+  "description": "Provides actions for Fuzzy and Token operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
